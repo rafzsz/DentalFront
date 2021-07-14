@@ -1,0 +1,8 @@
+Entidade: Biblioteca de filmes e séries
+
+Dentistas:
+- id
+- name
+- email
+- cro
+- cro_uf
